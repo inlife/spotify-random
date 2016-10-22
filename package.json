@@ -9,7 +9,6 @@
   "author": "Inlife",
   "license": "MIT",
   "dependencies": {
-    "request": "^2.75.0",
-    "shortid": "^2.2.6"
+    "request": "^2.75.0"
   }
 }

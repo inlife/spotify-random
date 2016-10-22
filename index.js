@@ -19,5 +19,5 @@ request(qurl, function(err, res, body) {
     var artist = res.tracks.items[0].artists[0].name;
     var track  = res.tracks.items[0].name;
 
-    console.log(`${artist} - ${track}`);
+    console.log(`> ${artist} - ${track}`);
 });
